@@ -1,0 +1,51 @@
+"UE4 Character Cel Shading Pack" Version History
+
+
+--- V1.1.1, August 22, 2016 ---
+Removed intermediate assets that uploaded by mistake. Moved documents from Content\ to Content\CharCelShadingPack\
+
+* Removed M_Cartoon_Hair_NoTangent.uasset
+* Removed M_Cartoon_Hair_NoTangent_Black.uasset
+* Removed M_CharCelShading_Hair.uasset
+* Removed CelShading_Mixamo_Analytic_2.uasset
+* Moved all pdf files from Content\ to Content\CharCelShadingPack\
+* Moved all txt files from Content\ to Content\CharCelShadingPack\
+
+--- V1.1.0, August 9, 2016 ---
+Two line-drawing-related options were added: a) Use Normal Map for Line Detection, b) Use Depth Adaptation.
+A document "ControllingLines.pdf" has been added, which explains the line PP material principles and parameters. 
+The document also explains the above newly added options. It also has Japanese and Korean versions.
+
+* Added "Use Normal Map for Line Detection" switch in cel shading materials.
+* Added "Use Depth Adaptation" switch in PP line material.
+* Added ControllingLines.pdf
+* Added ControllingLines_jpn.pdf
+* Added ControllingLines_kor.pdf
+
+--- V1.0.3, August 3, 2016 ---
+We got japanese version of ReproducingTheDemoVideoScene. Thanks to our translator.
+
+* Added Finished Japanese translation of ReproducingTheDemoVideoScene.pdf
+* Changed fonts in LightingControl_jpn.pdf to Kojuka Gothic
+
+--- V1.0.2, August 1, 2016 ---
+Finally, we got some finished translation of our documents from our international friends. Thanks!
+Chinese trasnlation is in progress. We expect it will be available in a month.
+Japanese translation of ReproducingTheDemoVideoScene is in progress. We expect it will be available in a week.
+
+* Added Finished Japanese translation of LightingControl.pdf
+* Added Finished Korean translation of LightingControl.pdf
+* Added Finished Korean translation of ReproducingTheDemoVideoScene.pdf
+* Added Year of the version release dates in the version history text file.
+
+
+--- V1.0.1, July 26, 2016 ---
+No actual pack content has been changed in this version.
+
+* The description text was revised.
+* An unintended subtle line box around characters in our FeaturedNew image was fixed. 
+
+
+--- V1.0.0, July 21, 2016 ---
+The first version of the pack has been accepted in the UE4 Marketplace.
+The accepted version of the pack has been released in Gumroad.
